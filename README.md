@@ -1,5 +1,5 @@
 # Object Detection in an Hazy Image Python
-python implementation of the paper: "Efficient Image Dehazing with Boundary Constraint and Contextual Regularization"
+Python implementation of the paper: "Efficient Image Dehazing with Boundary Constraint and Contextual Regularization and Its Object Detection"
 
 ## Understand the best hyperparameters for your use case: :eyes:
 Please use this web-app to upload your image and understand what parameters work best for your use case:<br>
@@ -8,7 +8,7 @@ https://utkarsh-deshmukh-streamlit-image-dehaze-run-haze-removal-vo1yua.streamli
 # Results
 ![2](https://user-images.githubusercontent.com/13918778/84451507-1cbbb180-ac08-11ea-816f-8ec983fd370d.JPG)
 ============================================================================================================
-![1](https://user-images.githubusercontent.com/13918778/84451353-b0d94900-ac07-11ea-8f1b-3791e9f2f600.JPG)
+![1](https://github.com/technoayan7/Object-Detection-in-an-Hazy-Image/blob/master/Oject%20detection.png?raw=true)
 ============================================================================================================
 ![3](https://user-images.githubusercontent.com/13918778/84451641-8471fc80-ac08-11ea-8a7d-59f566b1c3bb.JPG)
 
