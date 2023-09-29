@@ -1,4 +1,4 @@
-# Single-Image-Dehazing-Python
+# Object Detection in an Hazy Image Python
 python implementation of the paper: "Efficient Image Dehazing with Boundary Constraint and Contextual Regularization"
 
 ## Understand the best hyperparameters for your use case: :eyes:
