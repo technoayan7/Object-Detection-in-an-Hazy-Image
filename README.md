@@ -7,7 +7,7 @@ Python implementation of the paper: "Efficient Image Dehazing with Boundary Cons
 ============================================================================================================
 ![1](https://github.com/technoayan7/Object-Detection-in-an-Hazy-Image/blob/master/Oject%20detection.png?raw=true)
 ============================================================================================================
-![3](https://user-images.githubusercontent.com/13918778/84451641-8471fc80-ac08-11ea-8a7d-59f566b1c3bb.JPG)
+![3](https://github.com/technoayan7/Object-Detection-in-an-Hazy-Image/blob/master/object.png?raw=true)
 
 
 ## Installation and Running the tests
